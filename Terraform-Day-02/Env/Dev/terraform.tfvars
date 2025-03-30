@@ -11,7 +11,7 @@ rg_devops_dev = {
     resource_group_location = "centralindia"
   }
   rg_devops_dev_002 = {
-    resource_group_name     = "rg-devops-prod-002"
+    resource_group_name     = "rg-devops-prod-001"
     resource_group_location = "centralindia"
   }
   rg_devops_dev_003 = {
